@@ -8598,9 +8598,9 @@ h2 {
   font-size: 20px;
   line-height: 1.285714285714286em;
   font-weight: 600;
-  margin-top: 40px;
-  margin-bottom: 40px;
-  display: inline-block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: block;
 }
 
 /* line 168 */
@@ -8618,9 +8618,9 @@ h3 {
   font-size: 16px;
   line-height: 1.285714285714286em;
   font-weight: 600;
-  margin-top: 30px;
-  margin-bottom: 30px;
-  display: inline-block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: block;
 }
 
 /* line 185 */
@@ -8637,10 +8637,10 @@ h4 {
   font-size: 12px;
   line-height: 1.285714285714286em;
   font-weight: 600;
-  margin-top: 30px;
-  margin-bottom: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
   text-transform: uppercase;
-  display: inline-block;
+  display: block;
 }
 
 /* line 202 */
